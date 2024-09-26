@@ -1,6 +1,4 @@
-
-[//]: # (Add your logo here)
-<!-- ![Project Logo](images/to/Blueprints-logo.png) -->
+<!-- ![Project Logo](/images/to/Blueprints-logo.png) -->
 
 # Build an AI-powered Local File-Retrieval System
 
