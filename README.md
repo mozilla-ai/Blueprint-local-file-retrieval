@@ -1,11 +1,10 @@
-![Project Logo](./images/Blueprints-logo.png)
+<img src="./images/Blueprints-logo.png" alt="Project Logo" style="width:25%;">
 
 # Build an AI-powered Local File-Retrieval System
 
 This blueprint guides you to build an AI-powered system designed for local file retrieval. The system will use local language models and local indexing to retrieve files based on semantic user queries, providing fast and accurate access to files stored on local devices. This eliminates the need for manual searching, improving productivity. It can support various file types, including text documents, images, and PDFs.
 
 ![Blueprint Diagram](./images/File-retrieval-blueprint-diagram.png)
-<img src="./images/File-retrieval-blueprint-diagram.png" alt="Blueprint Diagram" style="width:50%;">
 
 ## Pre-requisites
 
