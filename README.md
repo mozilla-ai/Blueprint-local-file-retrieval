@@ -35,7 +35,7 @@ This blueprint guides you to build an AI-powered system designed for local file 
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 
-## Quick-start (example)
+## Quick-start
 
 1. Add your data:
 
