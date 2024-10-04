@@ -1,0 +1,9 @@
+numpy
+tqdm
+langchain
+langchain_community
+sentence-transformers
+pyyaml
+sqlite-vec
+PyPDF2
+pypdf

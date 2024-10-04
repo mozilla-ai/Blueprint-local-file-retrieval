@@ -1,0 +1,13 @@
+data_folder: "data/example_data"
+db_file: "documents.db"
+model_name: "all-MiniLM-L6-v2"
+chunk_size: 1000
+chunk_overlap: 100
+file_extensions:
+  - ".txt"
+  - ".md"
+  - ".py"
+  - ".json"
+  - ".csv"
+  - ".pdf"
+k: 3
