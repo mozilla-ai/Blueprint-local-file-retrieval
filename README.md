@@ -100,7 +100,7 @@ You can customize the system by modifying the `config.yaml` file. Key configurat
 - `file_extensions`: List of file extensions to include when loading documents.
 - `k`: Number of top similar documents to retrieve per query.
 
-## Docker Usage 
+## (Optional) Docker Usage 
 
 You can run the application inside a Docker container if required.
 
@@ -121,7 +121,7 @@ docker run --rm -it \
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
 
 ## Additional Resources
 
